@@ -1,6 +1,5 @@
 <h2> Hi I´m Ivan></h2>
 
-[<img align='right' src='' width='300"'>](url)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/ivan-colmenares)
 [![mail Badge](https://img.shields.io/badge/-Mail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivancolmenares@live.com)](mailto:ivancolmenares@live.com)
