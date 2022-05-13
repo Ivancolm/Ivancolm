@@ -8,7 +8,7 @@ I am Ivan. I am originally from Mexico City, currently living in Houston. I have
 
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript, React, CSS, Bootstrap**
+- Front-end development using **HTML, JavaScript, React, CSS, Bootstrap**
 - Backend development using **SQL, PHP, Rails**
 - Solving Data structure and algorithm questions in **Java**
 - Learning Python
